@@ -1,4 +1,4 @@
-![Registro](https://github.com/user-attachments/assets/e36dd5e9-8559-4fdf-8e8f-0e666579c1f9)# rentApp
+# rentApp
 Proyecto: Aplicación para alquileres de casas/departamentos en La Plata. 
 Versión no - code. Plataforma de desarrollo utilizada: Appsheet.
 
