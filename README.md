@@ -14,6 +14,7 @@ Versión no - code. Plataforma de desarrollo utilizada: Appsheet.
 ● USE APP:
 
 Open in browser: https://www.appsheet.com/start/f8cdf764-8900-4737-a22a-e47cba1ede6d
+
 Install on mobile: https://www.appsheet.com/newshortcut/f8cdf764-8900-4737-a22a-e47cba1ede6d
 
 ● Funcionalidades del Sistema:
