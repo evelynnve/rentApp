@@ -1,5 +1,7 @@
 # rentApp
 Proyecto: Aplicación para alquileres de casas/departamentos en La Plata. 
+Materia: Ingeniería de Software 2024 - Facultad de informática UNLP.
+
 Versión no - code. Plataforma de desarrollo utilizada: Appsheet.
 
 ![Logo_RentApp](https://github.com/user-attachments/assets/ba66e0ab-8463-423b-8c23-5ea5d0b1b24e)
